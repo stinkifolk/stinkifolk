@@ -1,7 +1,7 @@
 # Hi, I'm Ama
 
 ### Cloud Practitioner | 5+ Years Experience
-- Self taught software engineer, learning cloud now.
+- Self taught data, learning cloud now.
 - Founder PETAI (Product Ecosystem, Tech & AI).
 - Building software with a focus on design, detail, and function from 0 → 1.
 - I'm working a design-engineering studio working with AI companies on interfaces, systems, and marketing sites.
